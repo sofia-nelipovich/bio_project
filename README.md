@@ -19,7 +19,7 @@
 
 **Расчёты:**
 - Exons: $$ \frac{851}{5760} \approx 0.148 $$
-- Introns: $$ \frac{0}{5760} = 0.000 $$
+- Introns: $$ \frac{32}{5760} = 0.005 $$
 - Promoters: $$ \frac{162}{5760} \approx 0.028 $$
 - Downstream: $$ \frac{29}{5760} \approx 0.005 $$
 - Intergenic: $$ \frac{2167}{5760} \approx 0.376 $$
